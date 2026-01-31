@@ -1,7 +1,6 @@
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&&height=280&section=header&text=ChemLLM%20Adapter&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20for%20Molecular%20Toxicity&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=280&section=header&text=ChemLLM%20Adapter&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20for%20Molecular%20Toxicity&descAlignY=60&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0F9D58&center=true&vCenter=true&width=700&lines=Loading+OLMo-7B+Base+Model...;Injecting+LoRA+Adapters+(r%3D32)...;Processing+Tox21+SMILES+Structures...;Bio-Chemical+Neural+Link+ESTABLISHED." />
