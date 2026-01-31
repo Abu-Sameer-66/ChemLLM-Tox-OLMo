@@ -1,0 +1,13 @@
+The Requirements is as:
+
+deepchem
+pandas
+numpy
+torch
+transformers
+accelerate
+bitsandbytes
+peft
+ai2-olmo
+rdkit
+scikit-learn
