@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/DeepChem-Bio_AI-00C853?style=for-the-badge&logo=moleculer&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-OLMo_7B-000000?style=for-the-badge&logo=openai&logoColor=white" />
-
 </div>
 
 ---
